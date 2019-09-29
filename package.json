@@ -1,0 +1,23 @@
+{
+  "name": "node_js_weather_application",
+  "version": "1.0.0",
+  "description": "A simple weather application made it in nodeJs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alfredjmg/node_js_weather_application.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alfredjmg/node_js_weather_application/issues"
+  },
+  "homepage": "https://github.com/alfredjmg/node_js_weather_application#readme",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "yargs": "^14.0.0"
+  }
+}
