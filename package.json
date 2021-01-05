@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/alfredjmg/node_js_weather_application#readme",
   "dependencies": {
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "yargs": "^14.0.0"
   }
 }
